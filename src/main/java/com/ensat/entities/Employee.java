@@ -3,7 +3,6 @@ package com.ensat.entities;
 import javax.persistence.*;
 import java.util.Collection;
 
-
 /**
  * Employee entity.
  */
