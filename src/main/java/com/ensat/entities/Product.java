@@ -2,6 +2,7 @@ package com.ensat.entities;
 
 import javax.persistence.*;
 
+
 /**
  * Product entity.
  */
